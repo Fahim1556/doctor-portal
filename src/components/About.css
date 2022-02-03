@@ -1,0 +1,157 @@
+.about-container h1{
+    text-align: center;
+    font-size: 30px;
+    line-height: 36.57px;
+    font-weight: 600;
+    font-family: monospace;
+    margin-top: 80px;
+    color: black;
+   
+
+}
+
+.about-container p {
+ margin-top: 10px;
+ padding: 10px;
+ line-height: 24px;
+ size: 14px;
+ font-weight: 600;
+ margin-left: 240px;
+ margin-right: 240px;
+ color: black;
+ text-align:center;
+}
+
+.container__detail img {
+
+    margin-left: -120px;
+    /* width: 628px; */
+    top: 799px;
+    
+}
+
+.container__detail{
+    margin-top: 80px;
+}
+
+.container__detail p {
+   width: 532px;
+   height: 214px;
+   left: 656px;
+   font-family: monospace;
+   size: 14px;
+   line-height: 24px;
+   font-weight: 700;
+   margin-top: 70px;
+   text-align: justify;
+}
+
+.about-btn {
+    width: 200px;
+    height: 42px;
+    border-radius: 62px;
+    background-color:  #2CAEE2;
+    color: white;
+    border-color: #2CAEE2 !important;
+    font-weight: bold;
+    margin-left: 570px;
+    margin-top:-300px;
+}
+
+.about__vedio {
+    margin-top: -130px;
+}
+
+.read-btn {
+    position:absolute;
+    width: 200px;
+    height: 42px;
+    border-radius: 62px;
+    background-color:  #2CAEE2;
+    color: white;
+    border-color: #2CAEE2 !important;
+    font-weight: bold;
+    margin-top:300px;
+   
+    
+}
+
+.About__vedio__consultation img {
+
+     margin-left: 620px;
+     margin-top: -250px;
+}
+
+.about__chose_deatail {
+
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.about__chose_deatail .chose__section img{
+    margin-left: 35px;
+    padding: 5px;
+}
+
+.about__chose_deatail .chose__section p{
+
+    font-weight: 500;
+    
+    
+}
+
+.right__side__doctor .aside_left img  {
+    margin-left: -90px;
+    margin-top: 70px;
+  
+    
+}
+
+.aside_left_bio {
+    margin-top: -40px;
+}
+
+.medicine__location img{
+    margin-left:10px; 
+    
+    
+  
+}
+
+.about__medicine__center .medicine__location h6{
+    color:#2CAEE2;
+    font-weight: 600;
+    size:15px;
+    margin-top: 20px;
+   text-align: center;
+
+}
+
+.about__medicine__center .medicine__location{
+    box-shadow: 0px 0px 27px rgba(0, 0, 0, 0.15);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+.about__medicine__center .medicine__location p{
+   
+    text-align:center;
+    margin-top: -30px;
+    margin-left: 25px;
+    padding-left:  5px;
+}
+
+.view-btn{
+    position:absolute;
+    width: 200px;
+    height: 42px;
+    border-radius: 62px;
+    background-color:  #2CAEE2;
+    color: white;
+    border-color: #2CAEE2 !important;
+    font-weight: bold;
+    margin-top:30px;
+    margin-left: 420px;
+   
+}

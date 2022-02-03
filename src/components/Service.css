@@ -1,0 +1,65 @@
+.service__right .primary {
+    border-radius: 39px;
+    padding-left:  25px;
+    padding-right: 25px;
+}
+
+.service__right p{
+    text-align: justify;
+    font-weight: 500;
+}
+
+.service__footer {
+   margin-top: 20px;
+   padding: 10px;
+}
+.service__footer ul {
+   
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: -40px;
+   
+}
+
+.service__footer ul li a{
+    text-decoration: none;
+    color: #333333;
+    font-weight: 500;
+
+}
+
+.service__footer ul li a:hover{
+    color:#2CAEE2 ;
+    transition: .1s;
+}
+
+
+.service__expert__doctor .service p {
+    text-align: center;
+   
+}
+
+.service__expert__doctor__footer ul {
+    list-style-type: none;
+}
+
+.service__expert__doctor__footer ul li a{
+    text-decoration: none;
+    color: #333333;
+
+    font-weight: 500;
+}
+
+.Doctor.about__vedio {
+    margin-top: 80px;
+}
+
+
+.About__vedio__consultation {
+
+    background-image: url(../img/expert_doctor_bg.png); 
+    background-repeat: no-repeat;
+    background-position:right;
+    
+
+}

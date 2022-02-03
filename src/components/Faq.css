@@ -1,0 +1,36 @@
+.Faq__body img{
+    border-radius: 10px;
+}
+.student-info .coma__up{
+  margin-top: -15px;
+}
+
+.student-info .coma__down{
+ margin-left: 450px;
+ margin-top: -90px;
+}
+
+.student-info p{
+    text-align: justify;
+}
+
+.student__info__footer__pic ul {
+
+    list-style-type: none;
+    display: flex;
+}
+
+.student__info__footer__pic .p__footer img{
+    width: 126px;
+    height: 85px;
+    border-radius: 15px;
+    padding: 10px;  
+    
+}
+
+.p__footer{
+    margin-left: 150px;
+    margin-top: -10px;
+}
+
+
